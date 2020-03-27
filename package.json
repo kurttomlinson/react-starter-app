@@ -1,0 +1,11 @@
+{
+  "name": "react-starter-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kurttomlinson/react-starter-app.git",
+  "author": "Kurt Tomlinson <kurttomlinson@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
