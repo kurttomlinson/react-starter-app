@@ -11,5 +11,5 @@ react-start-app is a script that creates and deploys a react app to S3 with a mi
 # Usage
 
 1. Duplicate this repository.
-2. Run `deploy.sh` to create and deploy an empty React app to S3.
-3. Run `deploy.sh` whenever you want to update your deployed React app with your changes.
+2. Run `node --experimental-modules index.mjs` to create and deploy an empty React app to S3.
+3. Run `node --experimental-modules index.mjs` whenever you want to update your deployed React app with your changes.
